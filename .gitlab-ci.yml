@@ -4,7 +4,6 @@ include:
 
 variables:
   SOURCE_NAME: tar
-  SOURCE_DIST: bookworm
   DEB_BUILD_OPTIONS: nocheck noudeb terse
   DEB_BUILD_PROFILES: nocheck noudeb
 
