@@ -1,9 +1,0 @@
-include:
-  project: gardenlinux/gardenlinux-package-build
-  file: pipeline/pipeline.yml
-
-variables:
-  SOURCE_NAME: tar
-  DEB_BUILD_OPTIONS: nocheck noudeb terse
-  DEB_BUILD_PROFILES: nocheck noudeb
-
