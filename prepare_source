@@ -1,2 +1,3 @@
 apt_src tar
 apply_patches
+version_suffix=gardenlinux0
